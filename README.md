@@ -9,7 +9,7 @@ In this repository you will find a use cases of RAG on AWS using [CDK](https://d
 
 Additionally,  you will find a notebook where you can run the agent localy.
 
-Agent with memory capable of following a more fluid conversation (learn more about using memories with agents [here](https://community.aws/posts/working-with-your-live-data-using-langchain)) to query the re:invent 2023 agenda by session ID or by description or general information, it also recommend a list of sessions according to your input. 
+Multiligual (limited to the LLM you use) agent with memory capable of following a more fluid conversation (learn more about using memories with agents [here](https://community.aws/posts/working-with-your-live-data-using-langchain)) to query the re:invent 2023 agenda by session ID or by description or general information, it also recommend a list of sessions according to your input. 
 
 ![Digrama parte 1](/imagenes/image_01.png)
 
@@ -20,7 +20,7 @@ Agent with memory capable of following a more fluid conversation (learn more abo
 - [AWS Account](https://aws.amazon.com/resources/create-account/?sc_channel=el&sc_campaign=datamlwave&sc_content=cicdcfnaws&sc_geo=mult&sc_country=mult&sc_outcome=acq) 
 -  [Foundational knowledge of Python](https://catalog.us-east-1.prod.workshops.aws/workshops/3d705026-9edc-40e8-b353-bdabb116c89c/) 
 
-💰 **Cost to complete**: 
+💰 **Cost To Complete**: 
 - [Amazon Bedrock Pricing](https://aws.amazon.com/bedrock/pricing/)
 - [Amazon Lambda Pricing](https://aws.amazon.com/lambda/pricing/)
 - [Amazon DynamoDB Pricing](https://aws.amazon.com/dynamodb/pricing/)
@@ -31,10 +31,10 @@ Agent with memory capable of following a more fluid conversation (learn more abo
 ✅ **Go to**: 
 
 ```
-cd qa-to-an-agenda
+cd re-invent-agent
 ```
 
-✅ **Create the virtual environment**: by following the steps in the [README](/qa-schedule-an-agenda/README.md)
+✅ **Create The Virtual Environment**: by following the steps in the [README](/re-invent-agent/README.md)
 
 ```
 python3 -m venv .venv
@@ -49,19 +49,19 @@ for windows:
 .venv\Scripts\activate.bat
 ```
 
-✅ **Install the requirements**:
+✅ **Install The Requirements**:
 
 ```
 pip install -r requirements.txt
 ```
 
-✅ **Synthesize the Cloudformation template with the following command**:
+✅ **Synthesize The Cloudformation Template With The Following Command**:
 
 ```
 cdk synth
 ```
 
-✅🚀 **And finally the deployment**:
+✅🚀 **The Deployment**:
 
 ```
 cdk deploy
@@ -76,11 +76,11 @@ When the stack is deployed, go to the Amazon Kendra console and Choose the new I
 This will populate the Index with the re-invent [agenda data](/re-invent-agent/agenda_reinvent_2023) that the CDK stack loaded into the S3 bucket it created. ⏳ It will take a while, be patient.
 
 
-✅ **Test the agent in an notebook:** [Here](/qa-to-an-agenda.ipynb)
+✅ **Test The Agent Locally:** [Here](/qa-to-an-agenda.ipynb)
 
-✅ **Test the agent:**
+✅ **Test The Agent:**
 
-- [Testing Lambda functions in the console](https://docs.aws.amazon.com/lambda/latest/dg/testing-functions.html):
+- [Testing Lambda Functions In The Console](https://docs.aws.amazon.com/lambda/latest/dg/testing-functions.html):
 
 Go to the [Lamnda Function console](https://console.aws.amazon.com/lambda/home#/functions), serarch and choose the lambda function that starts with the name `ReInventAgentStack-Fnagent`
 
@@ -106,7 +106,7 @@ Saved event and **Test**.
 
 Check the response when finished. 
 
-- [Testing Lambda functions with boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/lambda/client/invoke.html):
+- [Testing Lambda Functions With Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/lambda/client/invoke.html):
 
 In this [notebook](/test_lambda_function.ipynb) you can find the code to test locally.
 
