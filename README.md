@@ -76,7 +76,7 @@ When the stack is deployed, go to the Amazon Kendra console and Choose the new I
 This will populate the Index with the re-invent [agenda data](/re-invent-agent/agenda_reinvent_2023) that the CDK stack loaded into the S3 bucket it created. ⏳ It will take a while, be patient.
 
 
-✅ **Test The Agent Locally:** [Here](/qa-to-an-agenda.ipynb)
+✅ **Test The Agent Locally:** [Here](qa-to-an-agenda.ipynb)
 
 ✅ **Test The Agent:**
 
