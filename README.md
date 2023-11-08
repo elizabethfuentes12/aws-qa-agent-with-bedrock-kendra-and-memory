@@ -9,7 +9,7 @@ In this repository you will find a use cases of RAG on AWS using [CDK](https://d
 
 Additionally,  you will find a notebook where you can run the agent localy.
 
-Multiligual (limited to the LLM you use) agent with memory capable of following a more fluid conversation (learn more about using memories with agents [here](https://community.aws/posts/working-with-your-live-data-using-langchain)) to query the re:invent 2023 agenda by session ID or by description or general information, it also recommend a list of sessions according to your input. 
+Multilingual (limited to the LLM you use) agent with memory capable of following a more fluid conversation (learn more about using memories with agents [here](https://community.aws/posts/working-with-your-live-data-using-langchain)) to query the re:invent 2023 agenda by session ID or by description or general information, it also recommend a list of sessions according to your input. 
 
 ![Digrama parte 1](/imagenes/image_01.png)
 
