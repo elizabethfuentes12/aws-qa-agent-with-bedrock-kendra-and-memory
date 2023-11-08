@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Titian 2306
+summary: tag_name :Training & Certification, Topic, Application Integration, Area of Interest, Network & Infrastructure Security, Area of Interest, Generative AI, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Monday, Day, Venetian, Venue, , speakers :, thirdpartyid :TNC003-R, sessionuid :8C2C5D9B-5C32-46F6-B40F-DB447406A8F8, title :Self-paced labs [REPEAT], description :<p>Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event.</p>, sessiontype :standard, venuename :Venetian, floorplanname :Level 2, locationname :Titian 2306, startdatetimeutc :November, 27 2023 16:00:00 -0500, enddatetimeutc :November, 28 2023 00:30:00 -0500, 
+enddatetimeutc: November, 28 2023 00:30:00 -0500
+startdatetimeutc: November, 27 2023 16:00:00 -0500
+locationname: Titian 2306
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: standard
+description: <p>Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event.</p>
+title: Self-paced labs [REPEAT]
+sessionuid: 8C2C5D9B-5C32-46F6-B40F-DB447406A8F8
+thirdpartyid: TNC003-R
+speakers: 
+tag_name: Training & Certification, Topic, Application Integration, Area of Interest, Network & Infrastructure Security, Area of Interest, Generative AI, Area of Interest, Developer/Engineer, Role, Solution/Systems Architect, Role, IT Professional/Technical Manager, Role, Cross Industry, Industry, Monday, Day, Venetian, Venue

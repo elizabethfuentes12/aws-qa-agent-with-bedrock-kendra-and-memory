@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Mandalay Bay Ballroom H
+summary: tag_name :IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Network & Infrastructure Security, Area of Interest, Generative AI, Area of Interest, Application Integration, Area of Interest, Developer/Engineer, Role, Training & Certification, Topic, Cross Industry, Industry, Wednesday, Day, Mandalay Bay, Venue, , speakers :, thirdpartyid :TNC003-R4, sessionuid :94CF8575-CF3D-4B71-9C68-EA9E0E2F0A40, title :Self-paced labs [REPEAT], description :Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Mandalay Bay Ballroom H, startdatetimeutc :November, 29 2023 16:00:00 -0500, enddatetimeutc :November, 30 2023 02:45:00 -0500, 
+enddatetimeutc: November, 30 2023 02:45:00 -0500
+startdatetimeutc: November, 29 2023 16:00:00 -0500
+locationname: Mandalay Bay Ballroom H
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event
+title: Self-paced labs [REPEAT]
+sessionuid: 94CF8575-CF3D-4B71-9C68-EA9E0E2F0A40
+thirdpartyid: TNC003-R4
+speakers: 
+tag_name: IT Professional/Technical Manager, Role, Solution/Systems Architect, Role, Network & Infrastructure Security, Area of Interest, Generative AI, Area of Interest, Application Integration, Area of Interest, Developer/Engineer, Role, Training & Certification, Topic, Cross Industry, Industry, Wednesday, Day, Mandalay Bay, Venue

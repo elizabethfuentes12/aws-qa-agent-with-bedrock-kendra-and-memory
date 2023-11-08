@@ -1,0 +1,14 @@
+location: Venetian, Level 3, Lido 3104
+summary: tag_name :IT Professional/Technical Manager, Role, Venetian, Venue, Wednesday, Day, AI/ML, Topic, Student, Role, Amazon SageMaker, Services, Cross Industry, Industry, Automotive, Industry, Financial Services, Industry, AWS DeepRacer, Services, 400 - Expert, Level, Amazon Bedrock, Services, Developer/Engineer, Role, DeepRacer, Area of Interest, Generative AI, Area of Interest, , speakers :firstName_0: Johan, lastName_0: Esbjorner, , thirdpartyid :DPR401-R1, sessionuid :4E220A82-18CC-4B59-8E18-FDE0668A745B, title :Applying generative AI to business problems with AWS DeepRacer [REPEAT], description :Learn how to harness the power of generative AI with AWS DeepRacer assets to solve business challenges. In this workshop, use different foundation models to perform conversational log analysis and synthesize images. This workshop not only helps you improve your AWS DeepRacer results but also teaches you how to use generative AI for any business problem. Gain hands-on experience and valuable skills in generative AI that you can use in your work. You must bring your laptop to participate., sessiontype :Workshop, venuename :Venetian, floorplanname :Level 3, locationname :Lido 3104, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Lido 3104
+floorplanname: Level 3
+venuename: Venetian
+sessiontype: Workshop
+description: Learn how to harness the power of generative AI with AWS DeepRacer assets to solve business challenges. In this workshop, use different foundation models to perform conversational log analysis and synthesize images. This workshop not only helps you improve your AWS DeepRacer results but also teaches you how to use generative AI for any business problem. Gain hands-on experience and valuable skills in generative AI that you can use in your work. You must bring your laptop to participate
+title: Applying generative AI to business problems with AWS DeepRacer [REPEAT]
+sessionuid: 4E220A82-18CC-4B59-8E18-FDE0668A745B
+thirdpartyid: DPR401-R1
+speakers: firstName_0: Johan, lastName_0: Esbjorner
+tag_name: IT Professional/Technical Manager, Role, Venetian, Venue, Wednesday, Day, AI/ML, Topic, Student, Role, Amazon SageMaker, Services, Cross Industry, Industry, Automotive, Industry, Financial Services, Industry, AWS DeepRacer, Services, 400 - Expert, Level, Amazon Bedrock, Services, Developer/Engineer, Role, DeepRacer, Area of Interest, Generative AI, Area of Interest

@@ -1,0 +1,14 @@
+location: MGM Grand, Level 1, 101
+summary: tag_name :Amazon Managed Service for Prometheus, Services, Tuesday, Day, MGM Grand, Venue, Management & Governance, Area of Interest, 200 - Intermediate, Level, Monitoring & Observability, Area of Interest, Cloud Operations, Topic, DevOps Engineer, Role, Amazon Managed Grafana, Services, System Administrator, Role, Solution/Systems Architect, Role, Amazon CloudWatch, Services, , speakers :, thirdpartyid :COP201-R1, sessionuid :B41D82C4-A4DE-4DB8-B3A9-73E8209C6FB4, title :Accelerate troubleshooting with AWS observability [REPEAT], description :In this chalk talk, improve the efficiency of your troubleshooting. If your application is hosted across multiple AWS accounts and you are finding it challenging to correlate metrics, logs, and traces across applications in one view, this talk is for you. Today, you might rely on multiple tools to get telemetry from many AWS accounts or other data sources, an approach that can increase costs and delay troubleshooting. This talk invites tough questions on how to improve your troubleshooting and root cause analysis. Learn about the latest in AWS native and open source observability solutions that can help you!, sessiontype :Chalk Talk, venuename :MGM Grand, floorplanname :Level 1, locationname :101, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: 101
+floorplanname: Level 1
+venuename: MGM Grand
+sessiontype: Chalk Talk
+description: In this chalk talk, improve the efficiency of your troubleshooting. If your application is hosted across multiple AWS accounts and you are finding it challenging to correlate metrics, logs, and traces across applications in one view, this talk is for you. Today, you might rely on multiple tools to get telemetry from many AWS accounts or other data sources, an approach that can increase costs and delay troubleshooting. This talk invites tough questions on how to improve your troubleshooting and root cause analysis. Learn about the latest in AWS native and open source observability solutions that can help you!
+title: Accelerate troubleshooting with AWS observability [REPEAT]
+sessionuid: B41D82C4-A4DE-4DB8-B3A9-73E8209C6FB4
+thirdpartyid: COP201-R1
+speakers: 
+tag_name: Amazon Managed Service for Prometheus, Services, Tuesday, Day, MGM Grand, Venue, Management & Governance, Area of Interest, 200 - Intermediate, Level, Monitoring & Observability, Area of Interest, Cloud Operations, Topic, DevOps Engineer, Role, Amazon Managed Grafana, Services, System Administrator, Role, Solution/Systems Architect, Role, Amazon CloudWatch, Services

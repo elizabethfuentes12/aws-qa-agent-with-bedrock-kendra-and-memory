@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Mandalay Bay Ballroom H
+summary: tag_name :Cross Industry, Industry, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Thursday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Training & Certification, Topic, Application Integration, Area of Interest, Network & Infrastructure Security, Area of Interest, Generative AI, Area of Interest, , speakers :, thirdpartyid :TNC003-R7, sessionuid :108260A3-43AD-46F4-B494-B95CBCB3364D, title :Self-paced labs [REPEAT], description :Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Mandalay Bay Ballroom H, startdatetimeutc :November, 30 2023 18:30:00 -0500, enddatetimeutc :December, 01 2023 00:45:00 -0500, 
+enddatetimeutc: December, 01 2023 00:45:00 -0500
+startdatetimeutc: November, 30 2023 18:30:00 -0500
+locationname: Mandalay Bay Ballroom H
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event
+title: Self-paced labs [REPEAT]
+sessionuid: 108260A3-43AD-46F4-B494-B95CBCB3364D
+thirdpartyid: TNC003-R7
+speakers: 
+tag_name: Cross Industry, Industry, Developer/Engineer, Role, IT Professional/Technical Manager, Role, Thursday, Day, Mandalay Bay, Venue, Solution/Systems Architect, Role, Training & Certification, Topic, Application Integration, Area of Interest, Network & Infrastructure Security, Area of Interest, Generative AI, Area of Interest

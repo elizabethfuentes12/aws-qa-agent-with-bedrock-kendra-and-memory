@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall B, Expo, Booth #1566, AWS Training & Certification Lounge
+summary: tag_name :Tuesday, Day, Venetian, Venue, Training & Certification, Topic, , speakers :, thirdpartyid :TNC007-R1, sessionuid :C47CD9B4-818C-45AA-A916-403FCB564C52, title :AWS Training and Certification Lounge [REPEAT], description :Build beyond with AWS Training and Certification. Visit the AWS Certification Lounge to learn how to jump-start your career, up-level your cloud skills, and give your team the skills and resources to thrive in the cloud. Meet with AWS Training and Certification experts, learn how to redeem your free seven-day trial of AWS Skill Builder to advance your professional goals, challenge your cloud skills with an AWS Jam, and participate in activities to get SWAG and win exclusive prizes., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall B, Expo, Booth #1566, AWS Training & Certification Lounge, startdatetimeutc :November, 28 2023 17:00:00 -0500, enddatetimeutc :November, 29 2023 02:00:00 -0500, 
+enddatetimeutc: November, 29 2023 02:00:00 -0500
+startdatetimeutc: November, 28 2023 17:00:00 -0500
+locationname: Hall B, Expo, Booth #1566, AWS Training & Certification Lounge
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Build beyond with AWS Training and Certification. Visit the AWS Certification Lounge to learn how to jump-start your career, up-level your cloud skills, and give your team the skills and resources to thrive in the cloud. Meet with AWS Training and Certification experts, learn how to redeem your free seven-day trial of AWS Skill Builder to advance your professional goals, challenge your cloud skills with an AWS Jam, and participate in activities to get SWAG and win exclusive prizes
+title: AWS Training and Certification Lounge [REPEAT]
+sessionuid: C47CD9B4-818C-45AA-A916-403FCB564C52
+thirdpartyid: TNC007-R1
+speakers: 
+tag_name: Tuesday, Day, Venetian, Venue, Training & Certification, Topic

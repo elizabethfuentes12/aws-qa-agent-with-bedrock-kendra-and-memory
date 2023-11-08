@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Hall C, Certification Desk
+summary: tag_name :Sunday, Day, Venetian, Venue, Training & Certification, Topic, , speakers :, thirdpartyid :TNC006-R, sessionuid :4260BD95-C807-4BD4-AD47-723072BC52BD, title :Verify your AWS Certification [REPEAT], description :Are you AWS Certified? Come to an AWS Certification Desk to obtain your verification sticker. This grants you access to exclusive SWAG and entry into the AWS Certification Lounge, sponsored by Fidelity Investments., sessiontype :Community Activities, venuename :Venetian, floorplanname :Level 2, locationname :Hall C, Certification Desk, startdatetimeutc :November, 26 2023 18:00:00 -0500, enddatetimeutc :November, 27 2023 04:00:00 -0500, 
+enddatetimeutc: November, 27 2023 04:00:00 -0500
+startdatetimeutc: November, 26 2023 18:00:00 -0500
+locationname: Hall C, Certification Desk
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Community Activities
+description: Are you AWS Certified? Come to an AWS Certification Desk to obtain your verification sticker. This grants you access to exclusive SWAG and entry into the AWS Certification Lounge, sponsored by Fidelity Investments
+title: Verify your AWS Certification [REPEAT]
+sessionuid: 4260BD95-C807-4BD4-AD47-723072BC52BD
+thirdpartyid: TNC006-R
+speakers: 
+tag_name: Sunday, Day, Venetian, Venue, Training & Certification, Topic

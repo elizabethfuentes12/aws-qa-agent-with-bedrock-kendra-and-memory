@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Mandalay Bay Ballroom H
+summary: tag_name :Training & Certification, Topic, Generative AI, Area of Interest, Application Integration, Area of Interest, Tuesday, Day, Mandalay Bay, Venue, Cross Industry, Industry, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Network & Infrastructure Security, Area of Interest, Solution/Systems Architect, Role, , speakers :, thirdpartyid :TNC003-R3, sessionuid :38D8CE59-8E30-4034-98F3-64FB00FF5DBA, title :Self-paced labs [REPEAT], description :Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Mandalay Bay Ballroom H, startdatetimeutc :November, 28 2023 18:30:00 -0500, enddatetimeutc :November, 29 2023 02:15:00 -0500, 
+enddatetimeutc: November, 29 2023 02:15:00 -0500
+startdatetimeutc: November, 28 2023 18:30:00 -0500
+locationname: Mandalay Bay Ballroom H
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event
+title: Self-paced labs [REPEAT]
+sessionuid: 38D8CE59-8E30-4034-98F3-64FB00FF5DBA
+thirdpartyid: TNC003-R3
+speakers: 
+tag_name: Training & Certification, Topic, Generative AI, Area of Interest, Application Integration, Area of Interest, Tuesday, Day, Mandalay Bay, Venue, Cross Industry, Industry, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Network & Infrastructure Security, Area of Interest, Solution/Systems Architect, Role

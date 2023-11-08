@@ -1,0 +1,14 @@
+location: Mandalay Bay, Level 2 | South, Mandalay Bay Ballroom H
+summary: tag_name :Application Integration, Area of Interest, Generative AI, Area of Interest, Network & Infrastructure Security, Area of Interest, Training & Certification, Topic, Developer/Engineer, Role, Solution/Systems Architect, Role, Monday, Day, Mandalay Bay, Venue, Cross Industry, Industry, IT Professional/Technical Manager, Role, , speakers :, thirdpartyid :TNC003-R1, sessionuid :6B7CE760-1210-4538-9866-A3CD2742F0A5, title :Self-paced labs [REPEAT], description :Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event., sessiontype :Lab, venuename :Mandalay Bay, floorplanname :Level 2 | South, locationname :Mandalay Bay Ballroom H, startdatetimeutc :November, 27 2023 16:00:00 -0500, enddatetimeutc :November, 28 2023 02:00:00 -0500, 
+enddatetimeutc: November, 28 2023 02:00:00 -0500
+startdatetimeutc: November, 27 2023 16:00:00 -0500
+locationname: Mandalay Bay Ballroom H
+floorplanname: Level 2 | South
+venuename: Mandalay Bay
+sessiontype: Lab
+description: Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event
+title: Self-paced labs [REPEAT]
+sessionuid: 6B7CE760-1210-4538-9866-A3CD2742F0A5
+thirdpartyid: TNC003-R1
+speakers: 
+tag_name: Application Integration, Area of Interest, Generative AI, Area of Interest, Network & Infrastructure Security, Area of Interest, Training & Certification, Topic, Developer/Engineer, Role, Solution/Systems Architect, Role, Monday, Day, Mandalay Bay, Venue, Cross Industry, Industry, IT Professional/Technical Manager, Role

@@ -1,0 +1,14 @@
+location: Caesars Forum, Level 1, Summit 221
+summary: tag_name :Monday, Day, Caesars Forum, Venue, Management & Governance, Area of Interest, Amazon Managed Service for Prometheus, Services, System Administrator, Role, Cloud Operations, Topic, 200 - Intermediate, Level, DevOps Engineer, Role, Amazon CloudWatch, Services, Solution/Systems Architect, Role, Amazon Managed Grafana, Services, Monitoring & Observability, Area of Interest, , speakers :, thirdpartyid :COP202-R1, sessionuid :6BFFE610-8B04-45A7-BB3C-5B655B59257B, title :Getting started with observability [REPEAT], description :In today’s fast-paced world of modern applications, achieving comprehensive observability is crucial for operational excellence, optimal performance, sustained reliability, and positive user experience. But getting started with observability can be challenging. Join this chalk talk to learn about best practices for how to use out-of-the-box capabilities and curated templates that can simplify and accelerate your experience from the start. The talk includes a live demo of setting up monitoring for an application, extracting metrics from log files, and building dashboards. Furthermore, explore how you can track trends, changes, anomalies, or patterns in your key metrics using visualization capabilities., sessiontype :Chalk Talk, venuename :Caesars Forum, floorplanname :Level 1, locationname :Summit 221, startdatetimeutc :, enddatetimeutc :, 
+enddatetimeutc: 
+startdatetimeutc: 
+locationname: Summit 221
+floorplanname: Level 1
+venuename: Caesars Forum
+sessiontype: Chalk Talk
+description: In today’s fast-paced world of modern applications, achieving comprehensive observability is crucial for operational excellence, optimal performance, sustained reliability, and positive user experience. But getting started with observability can be challenging. Join this chalk talk to learn about best practices for how to use out-of-the-box capabilities and curated templates that can simplify and accelerate your experience from the start. The talk includes a live demo of setting up monitoring for an application, extracting metrics from log files, and building dashboards. Furthermore, explore how you can track trends, changes, anomalies, or patterns in your key metrics using visualization capabilities
+title: Getting started with observability [REPEAT]
+sessionuid: 6BFFE610-8B04-45A7-BB3C-5B655B59257B
+thirdpartyid: COP202-R1
+speakers: 
+tag_name: Monday, Day, Caesars Forum, Venue, Management & Governance, Area of Interest, Amazon Managed Service for Prometheus, Services, System Administrator, Role, Cloud Operations, Topic, 200 - Intermediate, Level, DevOps Engineer, Role, Amazon CloudWatch, Services, Solution/Systems Architect, Role, Amazon Managed Grafana, Services, Monitoring & Observability, Area of Interest

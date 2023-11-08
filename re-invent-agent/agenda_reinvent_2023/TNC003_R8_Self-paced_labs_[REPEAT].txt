@@ -1,0 +1,14 @@
+location: Venetian, Level 2, Titian 2306
+summary: tag_name :Training & Certification, Topic, Network & Infrastructure Security, Area of Interest, Generative AI, Area of Interest, Cross Industry, Industry, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Application Integration, Area of Interest, Friday, Day, Venetian, Venue, Solution/Systems Architect, Role, , speakers :, thirdpartyid :TNC003-R8, sessionuid :2E0F23F3-D827-44E9-A054-379537A8E760, title :Self-paced labs [REPEAT], description :Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event., sessiontype :Lab, venuename :Venetian, floorplanname :Level 2, locationname :Titian 2306, startdatetimeutc :December, 01 2023 16:00:00 -0500, enddatetimeutc :December, 01 2023 19:30:00 -0500, 
+enddatetimeutc: December, 01 2023 19:30:00 -0500
+startdatetimeutc: December, 01 2023 16:00:00 -0500
+locationname: Titian 2306
+floorplanname: Level 2
+venuename: Venetian
+sessiontype: Lab
+description: Practice learning AWS services in a live lab environment with AWS Builder Labs. Choose a lab and work through step-by-step scenarios on topics ranging from introductory to expert, and get your questions answered by AWS Training and Certification experts. No registration is required, but allow yourself approximately 40–120 minutes per lab. This is an all-day event
+title: Self-paced labs [REPEAT]
+sessionuid: 2E0F23F3-D827-44E9-A054-379537A8E760
+thirdpartyid: TNC003-R8
+speakers: 
+tag_name: Training & Certification, Topic, Network & Infrastructure Security, Area of Interest, Generative AI, Area of Interest, Cross Industry, Industry, IT Professional/Technical Manager, Role, Developer/Engineer, Role, Application Integration, Area of Interest, Friday, Day, Venetian, Venue, Solution/Systems Architect, Role

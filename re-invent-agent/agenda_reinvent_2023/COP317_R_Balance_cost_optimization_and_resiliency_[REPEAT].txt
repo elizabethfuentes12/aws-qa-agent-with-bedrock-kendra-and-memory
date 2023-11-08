@@ -1,0 +1,14 @@
+location: Wynn, Level 1, Lafite 1
+summary: tag_name :Cloud Operations, Topic, 300 - Advanced, Level, Management & Governance, Area of Interest, Cost Optimization, Area of Interest, IT Administrator, Role, Business Executive, Role, AWS Trusted Advisor, Services, AWS Resilience Hub, Services, Monday, Day, Wynn, Venue, AWS Compute Optimizer, Services, IT Professional/Technical Manager, Role, , speakers :firstName_0: Arvind, lastName_0: Raghunathan, firstName_1: Avichal, lastName_1: Chum, , thirdpartyid :COP317-R, sessionuid :E2BFA9DD-4981-4438-A9F5-004513270F64, title :Balance cost optimization and resiliency [REPEAT], description :Operating a cost-efficient architecture without compromising resiliency is critical for your business. Join this chalk talk to learn how you can improve observability and identify cost-saving opportunities while maintaining availability for your workloads., sessiontype :Chalk Talk, venuename :Wynn, floorplanname :Level 1, locationname :Lafite 1, startdatetimeutc :November, 27 2023 21:00:00 -0500, enddatetimeutc :November, 27 2023 22:00:00 -0500, 
+enddatetimeutc: November, 27 2023 22:00:00 -0500
+startdatetimeutc: November, 27 2023 21:00:00 -0500
+locationname: Lafite 1
+floorplanname: Level 1
+venuename: Wynn
+sessiontype: Chalk Talk
+description: Operating a cost-efficient architecture without compromising resiliency is critical for your business. Join this chalk talk to learn how you can improve observability and identify cost-saving opportunities while maintaining availability for your workloads
+title: Balance cost optimization and resiliency [REPEAT]
+sessionuid: E2BFA9DD-4981-4438-A9F5-004513270F64
+thirdpartyid: COP317-R
+speakers: firstName_0: Arvind, lastName_0: Raghunathan, firstName_1: Avichal, lastName_1: Chum
+tag_name: Cloud Operations, Topic, 300 - Advanced, Level, Management & Governance, Area of Interest, Cost Optimization, Area of Interest, IT Administrator, Role, Business Executive, Role, AWS Trusted Advisor, Services, AWS Resilience Hub, Services, Monday, Day, Wynn, Venue, AWS Compute Optimizer, Services, IT Professional/Technical Manager, Role
