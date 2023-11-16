@@ -91,11 +91,7 @@ class ReInventAgentStack(Stack):
             description = "re-invent-agenda",
             bucket_name=s3_deploy.bucket.bucket_name,
             language_code = 'en',
-            inclusion_prefixes=["agenda_reinvent_2023"],
+            inclusion_prefixes=["agenda_reinvent_2023/agenda/"],
             inclusion_patterns = []
         )
-        
-        
-
-
-        
+    
