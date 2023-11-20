@@ -82,12 +82,13 @@ class ReInventAgentStack(Stack):
 
         #Data to Amazon Kendra Index
         
+    
         s3_files_es_ds = CRKendraS3Datasource(
             self, "qa-agenda",
             service_token=Fn.data_source_creator.function_arn,
             index_id= index.index_id,
             role_arn=index.role.arn,
-            name = "re-invent-agenda",
+            name = "re-invent-agenda-v3",
             description = "re-invent-agenda",
             bucket_name=s3_deploy.bucket.bucket_name,
             language_code = 'en',

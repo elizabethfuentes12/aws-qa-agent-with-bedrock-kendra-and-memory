@@ -26,10 +26,3 @@ class KendraServiceRole(Construct):
                 
             ])
         )
-
-        
-
-
-
-
-        

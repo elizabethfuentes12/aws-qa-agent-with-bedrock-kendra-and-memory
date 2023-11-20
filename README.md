@@ -1,4 +1,4 @@
-# RAG on AWS usign Amazon Bedrock, Amazon Kendra, Amazon Lambda Function and Amazon DynamoDB
+# RAG with history memory agents using Amazon Bedrock, Amazon Kendra, Amazon Lambda Function, and Amazon DynamoDB qa-agent-with-bedrock-kendra-and-history-memory
 
 🇻🇪🇨🇱 [Dev.to](https://dev.to/elizabethfuentes12) [Linkedin](https://www.linkedin.com/in/lizfue/) [GitHub](https://github.com/elizabethfuentes12/) [Twitter](https://twitter.com/elizabethfue12) [Instagram](https://www.instagram.com/elifue.tech) [Youtube](https://www.youtube.com/channel/UCr0Gnc-t30m4xyrvsQpNp2Q)
 [Linktr](https://linktr.ee/elizabethfuentesleone)
@@ -9,7 +9,7 @@ In this repository you will find a use cases of RAG on AWS using [CDK](https://d
 
 Additionally,  you will find a notebook where you can run the agent localy.
 
-Multilingual (limited to the LLM you use) agent with memory capable of following a more fluid conversation (learn more about using memories with agents [here](https://community.aws/posts/working-with-your-live-data-using-langchain)) to query the re:invent 2023 agenda by session ID or by description or general information, it also recommend a list of sessions according to your input. 
+Multilingual (limited to the LLM you use) agent with memory capable of following a more fluid conversation (learn more about using memories with agents [here](https://community.aws/posts/working-with-your-live-data-using-langchain)) to query [the re:invent 2023 agenda](https://hub.reinvent.awsevents.com/attendee-portal/catalog/) by session ID or by description or general information, it also recommend a list of sessions according to your input. 
 
 ![Digrama parte 1](/imagenes/image_01.png)
 
@@ -27,6 +27,12 @@ Multilingual (limited to the LLM you use) agent with memory capable of following
 - [Amazon Kendra Pricing](https://aws.amazon.com/kendra/pricing/)
 
 ## Let's build!
+
+✅ **Clone the repo**
+
+```
+git clone https://github.com/elizabethfuentes12/aws-qa-agent-with-bedrock-kendra-and-memory.git
+```
 
 ✅ **Go to**: 
 
@@ -67,13 +73,15 @@ cdk synth
 cdk deploy
 ```
 
-✅ **Configuration:** 
+✅ **Review what is deployed in the stack:** 
 
-When the stack is deployed, go to the Amazon Kendra console and Choose the new Index and then **Sync Now** 
+- Go to the [AWS Cloudformation console](onsole.aws.amazon.com/cloudformation), select the region where you deployed and click on `ReInventAgentStack`:
 
 ![Digrama parte 1](/imagenes/image_06.png)
 
-This will populate the Index with the re-invent [agenda data](/re-invent-agent/agenda_reinvent_2023) that the CDK stack loaded into the S3 bucket it created. ⏳ It will take a while, be patient.
+Then go to the resources tab and explore what's deployed:
+
+![Digrama parte 1](/imagenes/image_07.jpg)
 
 
 ✅ **Test The Agent Locally:** [Here](re-invent-agent.ipynb)
