@@ -77,8 +77,6 @@ cdk deploy
 
 - Go to the [AWS Cloudformation console](onsole.aws.amazon.com/cloudformation), select the region where you deployed and click on `ReInventAgentStack`:
 
-![Digrama parte 1](/imagenes/image_06.png)
-
 Then go to the resources tab and explore what's deployed:
 
 ![Digrama parte 1](/imagenes/image_07.jpg)

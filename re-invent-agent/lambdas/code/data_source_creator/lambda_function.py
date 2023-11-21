@@ -62,6 +62,12 @@ def create_webcrawler2 (event, context):
         res = kendra_client.create_data_source(**kwargs)
         index_id = props['index_id']
         ds_id = res['Id']
+        starting = kendra_client.start_data_source_sync_job(
+            Id=ds_id,
+            IndexId=index_id
+        )
+        print ("start sync job:", starting)
+
         event['PhysicalResourceId'] = f"{index_id}|{ds_id}"
         send_response(event, context, "SUCCESS",{"Message": "Resource creation successful!"})
     else:
@@ -98,6 +104,11 @@ def update_webcrawler2(event, context):
         print ("kwargs:",kwargs)
         res = kendra_client.update_data_source(**kwargs)
         print ("response: ",res)
+        starting = kendra_client.start_data_source_sync_job(
+            Id=id,
+            IndexId=index_id
+        )
+        print ("start sync job:", starting)
         #index_id = props['index_id']
         #event['PhysicalResourceId'] = f"{index_id}|{ds_id}"
         ##ds_id = res['Id']

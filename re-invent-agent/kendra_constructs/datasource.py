@@ -324,6 +324,7 @@ class CRKendraS3Datasource(Construct):
         bucket_name,
         inclusion_patterns,
         inclusion_prefixes,
+        metadata_files_prefix = None,
         exclusion_patterns = [],
         exclusion_prefixes = [],
         description="default description",
@@ -357,6 +358,9 @@ class CRKendraS3Datasource(Construct):
             inclusionPatterns=inclusion_patterns,
             exclusionPrefixes=exclusion_prefixes,
         )
+
+        if metadata_files_prefix:
+            additiona_properties = dict(**additiona_properties, metadataFilesPrefix = metadata_files_prefix)
 
         template = dict(
             connectionConfiguration=connection_configuration,
