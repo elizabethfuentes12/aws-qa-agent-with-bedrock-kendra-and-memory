@@ -9,7 +9,7 @@ LAMBDA_TIMEOUT = 900
 
 BASE_LAMBDA_CONFIG = dict(
     timeout=Duration.seconds(LAMBDA_TIMEOUT),
-    memory_size=128,
+    memory_size=512,
     tracing=aws_lambda.Tracing.ACTIVE,
     architecture=aws_lambda.Architecture.ARM_64
 )

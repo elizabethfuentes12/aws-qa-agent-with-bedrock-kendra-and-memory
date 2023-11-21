@@ -112,9 +112,18 @@ Saved event and **Test**.
 
 Check the response when finished. 
 
+![Digrama parte 1](/imagenes/video_1.gif)
+
+> When we ask for ID, the agent consults Amazon DynamoDB
+
+![Digrama parte 2](/imagenes/video_2.gif)
+
+
 - [Testing Lambda Functions With Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/lambda/client/invoke.html):
 
 In this [notebook](/test_lambda_function.ipynb) you can find the code to test locally.
+
+
 
 > Play with the agent and improve the prompt, remember that he has memory storage and you can have a fluid conversation with it.
 
